@@ -1,0 +1,11 @@
+c:\users\xingkun yin\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.deps.json
+c:\users\xingkun yin\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.json
+c:\users\xingkun yin\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.dev.json
+c:\users\xingkun yin\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.dll
+c:\users\xingkun yin\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.pdb
+c:\users\xingkun yin\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csprojAssemblyReference.cache
+c:\users\xingkun yin\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csproj.CoreCompileInputs.cache
+c:\users\xingkun yin\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfoInputs.cache
+c:\users\xingkun yin\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfo.cs
+c:\users\xingkun yin\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.dll
+c:\users\xingkun yin\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.pdb
