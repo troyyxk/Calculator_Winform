@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\xingkun yin\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\Xingkun Yin\\source\\repos\\Calculator_Winform\\Calculator\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "c:\\users\\xingkun yin\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\Xingkun Yin\\source\\repos\\Calculator_Winform\\Calculator\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\Xingkun Yin\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\xingkun yin\\source\\repos\\Calculator\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\Xingkun Yin\\source\\repos\\Calculator_Winform\\Calculator\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
